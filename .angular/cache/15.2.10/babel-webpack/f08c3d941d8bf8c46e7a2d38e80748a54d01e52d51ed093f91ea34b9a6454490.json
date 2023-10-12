@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { config } from \"config\";\nexport const environment = {\n  production: true,\n  apiURL: config.apiUrl,\n  apiURLKC: config.apiUrlKeyCloak,\n  TOKEN_AUTH_USERNAME: 'mitomediapp',\n  TOKEN_AUTH_PASSWORD: 'mito89codex',\n  TOKEN_NAME: 'access_token',\n  REINTENTOS: 3\n};","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

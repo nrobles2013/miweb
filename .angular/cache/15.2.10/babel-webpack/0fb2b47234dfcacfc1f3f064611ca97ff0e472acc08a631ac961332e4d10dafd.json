@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class ConsMovimiento {\n  constructor(panio, pmes, usuario_id, ptransa) {\n    this.panio = panio;\n    this.pmes = pmes;\n    this.usuario_id = usuario_id;\n    this.ptransa = ptransa;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

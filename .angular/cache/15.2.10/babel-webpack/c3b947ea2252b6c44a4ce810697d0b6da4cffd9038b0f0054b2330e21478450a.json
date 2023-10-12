@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class MenuUsuario {\n  constructor(username, tpparticipe) {\n    this.username = username;\n    this.tpparticipe = tpparticipe;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}

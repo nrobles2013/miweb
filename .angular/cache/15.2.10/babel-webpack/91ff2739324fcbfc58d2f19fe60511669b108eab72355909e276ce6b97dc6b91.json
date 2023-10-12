@@ -1,0 +1,1 @@
+{"ast":null,"code":"export class Correo {\n  constructor(correo, ipaddress) {\n    this.correo = correo;\n    this.ipaddress = ipaddress;\n  }\n}","map":null,"metadata":{},"sourceType":"module","externalDependencies":[]}
